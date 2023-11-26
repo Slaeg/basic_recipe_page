@@ -96,7 +96,7 @@ div:hover .card__btn {
   color: white;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
   .card-container {
       grid-template-columns: 1fr; /* One column layout */
   }
