@@ -73,3 +73,25 @@ body {
     margin-bottom: 0.5rem;
   }
   
+  h1 {
+    text-align: center;
+    color: var(--clr-primary);
+}
+
+.image-container {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-container .caption {
+    color: var(--clr-grey500);
+    margin-top: 0.5rem;
+}
