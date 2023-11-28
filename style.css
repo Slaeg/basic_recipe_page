@@ -87,14 +87,16 @@ body {
   transition: background 200ms ease-in, color 200ms ease-in;
 }
 
-div:hover  {
+.card:hover {
   transform: scale(1.02);
 }
 
-div:hover .card__btn {
+
+.card:hover .card__btn {
   background: var(--clr-primary);
   color: white;
 }
+
 
 @media screen and (max-width: 768px) {
   .card-container {
