@@ -4,4 +4,4 @@ This is the first project in the Odin foundations course. It tests that you can 
 
 The basic spec was 3 recipes but I plan to add more in the future as I had always wanted to collect all of the recipes that I use at home in one easy place for reference or for when someone like my Mother-inlaw asks for a recipe.
 
-I also intend on adding style to the project as I learn how to do such things.
+I also added some styles and more recipes
