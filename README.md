@@ -1,4 +1,4 @@
-# odin-recepies
+# Basic_recepie_page
 
 This is the first project in the Odin foundations course. It tests that you can create boilerplate html and then add headings, paragraphs, images, links, ordered lists and unordered lists. It also was a good introduction to the Git workflow, getting into the habit of comitting early and often with proper coments for future me.
 
