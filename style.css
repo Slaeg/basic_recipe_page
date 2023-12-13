@@ -103,9 +103,7 @@ body {
       grid-template-columns: 1fr; /* One column layout */
   }
 
-  .card {
-      /* Optional: Adjust the card size or other properties for mobile */
-  }
+  
 }
 
   
